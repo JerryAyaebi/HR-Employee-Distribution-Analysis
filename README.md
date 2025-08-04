@@ -14,11 +14,3 @@ This analysis explores workforce demographics, including age, gender, location, 
 - **SQL** for data cleaning/analysis.  
 - **Power BI** for visualizations (age/gender charts, location maps).  
 
-## Files  
-- `HR_Employee_Distribution_Analysis.pdf`: Full report with visualizations.  
-
-## How to Use  
-Review the PDF for detailed insights or clone the repo to replicate the analysis.  
-
----  
-*Data source: Proprietary HR records. Visuals © 2025 TomTom/Microsoft.*
